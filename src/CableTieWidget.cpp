@@ -1250,6 +1250,6 @@ struct CableTieWidget : app::ModuleWidget {
 	}
 };
 
-Model* modelCableTie = createModel<CableTieModule, CableTieWidget>("CableTie");
+Model* modelCableTie = createModel<CableTieModule, CableTieWidget>("CableTies");
 
 } // namespace CableTies

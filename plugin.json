@@ -1,20 +1,20 @@
 {
-  "slug": "CableTies",
-  "name": "CableTies",
+  "slug": "Wireworks",
+  "name": "Wireworks",
   "version": "2.0.0",
   "license": "GPL-3.0-or-later",
-  "brand": "CableTies",
+  "brand": "Wireworks",
   "author": "Vega Deftwing",
   "authorEmail": "",
   "authorUrl": "https://opguides.info",
   "pluginUrl": "",
   "manualUrl": "",
-  "sourceUrl": "https://github.com/triode-the-andrewsarchus/vcv-cableties",
+  "sourceUrl": "https://github.com/triode-the-andrewsarchus/vcv-wireworks",
   "donateUrl": "https://github.com/sponsors/VegaDeftwing",
   "changelogUrl": "",
   "modules": [
     {
-      "slug": "CableTie",
+      "slug": "CableTies",
       "name": "Cable Ties",
       "description": "Wiring harness and cable tie manager",
       "tags": [

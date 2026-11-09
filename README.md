@@ -1,4 +1,4 @@
-# VCV Rack Cable Ties (Wiring Harness Manager)
+# Wireworks — VCV Rack Cable Ties & Pegs (Wiring Harness Manager)
 
 A VCV Rack v2 utility module that modifies cable behavior, enabling users to bundle patch cables together using interactive **Cable Ties**, mimicking real-world wiring harnesses and cable looms.
 
