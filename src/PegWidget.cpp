@@ -947,6 +947,6 @@ void PegWidget::appendContextMenu(ui::Menu* menu) {
 	}
 }
 
-Model* modelCablePegs = createModel<PegModule, PegWidget>("CablePegs");
+Model* modelCablePegs = createModel<PegModule, PegWidget>("Pegs");
 
 } // namespace CableTies

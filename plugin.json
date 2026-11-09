@@ -14,8 +14,8 @@
   "changelogUrl": "",
   "modules": [
     {
-      "slug": "CableTies",
-      "name": "Cable Ties",
+      "slug": "CableTie",
+      "name": "Cable-Tie",
       "description": "Wiring harness and cable tie manager",
       "tags": [
         "Utility",
@@ -23,8 +23,8 @@
       ]
     },
     {
-      "slug": "CablePegs",
-      "name": "Cable Pegs",
+      "slug": "Pegs",
+      "name": "Pegs",
       "description": "2HP cable routing pegs and linkable multi-row/horizontal keep-out barrier",
       "tags": [
         "Utility",
